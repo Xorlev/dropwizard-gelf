@@ -1,0 +1,3 @@
+com.smarchive.dropwizard.gelf.bundles
+com.smarchive.dropwizard.gelf.config
+com.smarchive.dropwizard.gelf.filters
